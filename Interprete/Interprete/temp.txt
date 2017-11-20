@@ -1,0 +1,10 @@
+#incluye<spanish.h>
+
+int main(){
+int suma = 0;
+escriba(hola);
+lea(palabra);
+para(int i = 0; i < 2;  i++){
+int numero = 20;
+}
+}
